@@ -1,0 +1,1400 @@
+{
+  "slug": "alpha-fit-club",
+  "brand": "Alpha Fit Club",
+  "field_count": 235,
+  "field_breakdown": {
+    "absolute": 218,
+    "theoretical": 9,
+    "matching": 8
+  },
+  "franchiseFee": 55000,
+  "totalInvestmentMin": 535450,
+  "totalInvestmentMax": 707450,
+  "royaltyPercent": "8%",
+  "totalUnits": 13,
+  "openLocations": 13,
+  "corporateCity": "Westfield",
+  "corporateState": "NJ",
+  "corporateZip": "07090",
+  "corporateAddress": "425 South Avenue E, Westfield, NJ 07090",
+  "description": "Alpha Fit Club is a coach-led, high-energy strength and conditioning franchise founded in 2018 in Westfield, New Jersey, and franchising since 2020 through Alpha Fit Club Franchise Company, LLC. Its studios run 60-minute circuit-style group classes blending strength training with HIIT cardio across 24- or 36-person class formats, paired with a structured 13-week training cycle and an internal Alpha-certification for every coach. The FDD (issued May 28, 2025) lists a $55,000 per-studio initial franchise fee with a two-studio minimum, total initial investment of $535,450 to $707,450 per studio, an 8% royalty, a 1% brand development fund, and a 1% local marketing requirement. Item 19 reports 2024 average gross sales of $1,020,129 across 3 company-owned studios (n=3, unaudited). Item 20 shows 13 total studios at year-end 2024 (10 franchised, 3 company-owned), all in New Jersey, with zero closures or terminations across 2022-2024 and 29 new studios projected across five East Coast states.",
+  "category": "Fitness",
+  "websiteUrl": "https://alphafitclub.com/",
+  "yearFounded": 2018,
+  "fddYear": 2025,
+  "territoryDescription": "Designated Territory around each approved Studio Location, generally 3 miles in all directions; non-exclusive",
+  "item12": "non-exclusive",
+  "item20PinCount": 10,
+  "hq_source": "FDD Item 1, cover page (footer p.1)",
+  "risk_score": 40.5,
+  "pins": [
+    {
+      "city": "Westfield",
+      "state": "NJ",
+      "latitude": 40.65439,
+      "longitude": -74.34544
+    },
+    {
+      "city": "Belmar",
+      "state": "NJ",
+      "latitude": 40.18297,
+      "longitude": -74.02431
+    },
+    {
+      "city": "Jersey City",
+      "state": "NJ",
+      "latitude": 40.71748,
+      "longitude": -74.04385
+    },
+    {
+      "city": "Wayne",
+      "state": "NJ",
+      "latitude": 40.93147,
+      "longitude": -74.22788
+    },
+    {
+      "city": "Princeton",
+      "state": "NJ",
+      "latitude": 40.37524,
+      "longitude": -74.60896
+    },
+    {
+      "city": "Marlton",
+      "state": "NJ",
+      "latitude": 39.89341,
+      "longitude": -74.9187
+    }
+  ],
+  "fields": {
+    "legal_entity_name": {
+      "value": "Alpha Fit Club Franchise Company, LLC",
+      "source": "FDD Item 1, p.1",
+      "type": "absolute"
+    },
+    "entity_type": {
+      "value": "New Jersey limited liability company",
+      "source": "FDD Item 1, p.1",
+      "type": "absolute"
+    },
+    "state_of_formation": {
+      "value": "New Jersey",
+      "source": "FDD Item 1, p.1",
+      "type": "absolute"
+    },
+    "formation_date": {
+      "value": "2020-02-27",
+      "source": "FDD Item 1, p.1",
+      "type": "absolute"
+    },
+    "principal_street": {
+      "value": "425 South Avenue E",
+      "source": "FDD Item 1, p.1",
+      "type": "absolute"
+    },
+    "principal_city": {
+      "value": "Westfield",
+      "source": "FDD Item 1, p.1",
+      "type": "absolute"
+    },
+    "principal_state": {
+      "value": "New Jersey",
+      "source": "FDD Item 1, p.1",
+      "type": "absolute"
+    },
+    "principal_zip": {
+      "value": "07090",
+      "source": "FDD Item 1, p.1",
+      "type": "absolute"
+    },
+    "principal_phone": {
+      "value": "(732) 713-1740",
+      "source": "FDD cover page",
+      "type": "absolute"
+    },
+    "contact_email": {
+      "value": "Rob@alphafitclub.com",
+      "source": "FDD cover page",
+      "type": "absolute"
+    },
+    "franchise_website": {
+      "value": "www.alphafitclub.com/pages/franchise",
+      "source": "FDD cover page",
+      "type": "absolute"
+    },
+    "brand_founded_year": {
+      "value": 2018,
+      "source": "FDD Item 1, p.1 (affiliate Alpha Fit Club, LLC formed 2018-04-26)",
+      "type": "absolute"
+    },
+    "first_studio_opened": {
+      "value": "April 2019 (Westfield, NJ company-owned)",
+      "source": "FDD Item 19, p.35",
+      "type": "absolute"
+    },
+    "franchise_offering_start": {
+      "value": "February 2020",
+      "source": "FDD Item 1, p.1",
+      "type": "absolute"
+    },
+    "parents": {
+      "value": "none",
+      "source": "FDD Item 1, p.1",
+      "type": "absolute"
+    },
+    "predecessors": {
+      "value": "none",
+      "source": "FDD Item 1, p.1",
+      "type": "absolute"
+    },
+    "other_business_lines": {
+      "value": "none",
+      "source": "FDD Item 1, p.1",
+      "type": "absolute"
+    },
+    "operates_franchised_business": {
+      "value": false,
+      "source": "FDD Item 1, p.1",
+      "type": "absolute"
+    },
+    "affiliate_1_name": {
+      "value": "Alpha Fit Club, LLC",
+      "source": "FDD Item 1, p.1",
+      "type": "absolute"
+    },
+    "affiliate_1_formation": {
+      "value": "2018-04-26",
+      "source": "FDD Item 1, p.1",
+      "type": "absolute"
+    },
+    "affiliate_1_role": {
+      "value": "Owner of the Licensed Marks; operates Westfield company-owned studio",
+      "source": "FDD Item 1, p.2",
+      "type": "absolute"
+    },
+    "affiliate_1_offers_franchises": {
+      "value": false,
+      "source": "FDD Item 1, p.2",
+      "type": "absolute"
+    },
+    "affiliate_2_name": {
+      "value": "Alpha Fit Club - Red Bank, LLC",
+      "source": "FDD Item 1, p.2",
+      "type": "absolute"
+    },
+    "affiliate_2_formation": {
+      "value": "2020-03-10",
+      "source": "FDD Item 1, p.2",
+      "type": "absolute"
+    },
+    "affiliate_2_studio": {
+      "value": "23 Maple Avenue, Red Bank, NJ 07701",
+      "source": "FDD Item 1, p.2",
+      "type": "absolute"
+    },
+    "affiliate_3_name": {
+      "value": "Alpha Fit Club - Verona, LLC",
+      "source": "FDD Item 1, p.2",
+      "type": "absolute"
+    },
+    "affiliate_3_formation": {
+      "value": "2020-05-26",
+      "source": "FDD Item 1, p.2",
+      "type": "absolute"
+    },
+    "affiliate_3_studio": {
+      "value": "560 Bloomfield Avenue, Verona, NJ 07044",
+      "source": "FDD Item 1, p.2",
+      "type": "absolute"
+    },
+    "fdd_issuance_date": {
+      "value": "2025-05-28",
+      "source": "FDD cover page",
+      "type": "absolute"
+    },
+    "fdd_year": {
+      "value": 2025,
+      "source": "FDD cover page",
+      "type": "absolute"
+    },
+    "business_description": {
+      "value": "Circuit-style group fitness training focused on strength training and HIIT-style cardio, plus related products and services",
+      "source": "FDD Item 1, p.1",
+      "type": "absolute"
+    },
+    "target_market": {
+      "value": "Adults of all ages interested in fitness, strength training, and health and wellness",
+      "source": "FDD Item 1, p.2",
+      "type": "absolute"
+    },
+    "competitive_landscape": {
+      "value": "Well developed and competitive; local fitness centers, gyms, group-training providers, online/e-commerce fitness outlets",
+      "source": "FDD Item 1, p.2",
+      "type": "absolute"
+    },
+    "typical_studio_size_sf": {
+      "value": "2800 to 3600",
+      "source": "FDD Item 7 Note 2, p.8",
+      "type": "absolute"
+    },
+    "class_capacity_options": {
+      "value": "24-person or 36-person",
+      "source": "FDD Item 7 Note 4, p.8",
+      "type": "absolute"
+    },
+    "min_studios_per_agreement": {
+      "value": 2,
+      "source": "FDD Item 5, p.3",
+      "type": "absolute"
+    },
+    "site_types": {
+      "value": "Shopping centers, free-standing buildings, non-traditional locations, high-traffic retail commercial locations",
+      "source": "FDD Item 1, p.1",
+      "type": "absolute"
+    },
+    "system_includes": {
+      "value": "Approved Products and Services, specs, methods, procedures, marketing/sales systems, confidential operations manuals",
+      "source": "FDD Item 1, p.1",
+      "type": "absolute"
+    },
+    "trademark_licensed_marks": {
+      "value": "Alpha Fit Club trademark, logo, service marks, logotypes, commercial symbols (some registered with USPTO)",
+      "source": "FDD Item 1, p.1",
+      "type": "absolute"
+    },
+    "registration_disclosure": {
+      "value": "No government agency has verified the information in this document",
+      "source": "FDD cover page",
+      "type": "absolute"
+    },
+    "industry_laws_note": {
+      "value": "Fitness-center regulations vary by jurisdiction; franchisee must investigate licensing/permitting/certification",
+      "source": "FDD Item 1, p.2",
+      "type": "absolute"
+    },
+    "founder_1_name": {
+      "value": "Sam Tooley",
+      "source": "FDD Item 2, p.2",
+      "type": "absolute"
+    },
+    "founder_1_role": {
+      "value": "Founding Member and Managing Member",
+      "source": "FDD Item 2, p.2",
+      "type": "absolute"
+    },
+    "founder_1_background": {
+      "value": "President of Tooley Legacy Foundation since 2018; Owner of Run Coach Tooley LLC since 2016",
+      "source": "FDD Item 2, p.2",
+      "type": "absolute"
+    },
+    "founder_2_name": {
+      "value": "Jerry Eicke",
+      "source": "FDD Item 2, p.2",
+      "type": "absolute"
+    },
+    "founder_2_role": {
+      "value": "Founding Member and Head of Franchise Development",
+      "source": "FDD Item 2, p.2",
+      "type": "absolute"
+    },
+    "founder_2_background": {
+      "value": "Chairman of Salad House Franchising, LLC since 2017; Finance Director/Board Member of Downtown Westfield Corp.; Managing Partner of Playa Bowls of Bergen County",
+      "source": "FDD Item 2, p.2",
+      "type": "absolute"
+    },
+    "founder_3_name": {
+      "value": "Rob Bothe",
+      "source": "FDD Item 2, p.2",
+      "type": "absolute"
+    },
+    "founder_3_role": {
+      "value": "Founding Member and Chief Financial Officer",
+      "source": "FDD Item 2, p.2",
+      "type": "absolute"
+    },
+    "founder_3_background": {
+      "value": "Chief Financial Officer at doForms, Inc. in Cranford, NJ since 2014",
+      "source": "FDD Item 2, p.2",
+      "type": "absolute"
+    },
+    "management_tenure_since": {
+      "value": "2020-02-27",
+      "source": "FDD Item 2, p.2",
+      "type": "absolute"
+    },
+    "item3_litigation": {
+      "value": "No litigation is required to be disclosed",
+      "source": "FDD Item 3, p.2",
+      "type": "absolute"
+    },
+    "item4_bankruptcy": {
+      "value": "No bankruptcy information is required to be disclosed",
+      "source": "FDD Item 4, p.2",
+      "type": "absolute"
+    },
+    "initial_franchise_fee_per_studio": {
+      "value": 55000,
+      "source": "FDD Item 5, p.3",
+      "type": "absolute"
+    },
+    "initial_franchise_fee_minimum_total": {
+      "value": 110000,
+      "source": "FDD Item 5, p.3 (2 studios x $55,000)",
+      "type": "absolute"
+    },
+    "initial_franchise_fee_three_studios": {
+      "value": 165000,
+      "source": "FDD Item 5, p.3",
+      "type": "absolute"
+    },
+    "initial_fee_refundable": {
+      "value": false,
+      "source": "FDD Item 5, p.3",
+      "type": "absolute"
+    },
+    "initial_fee_earned_on": {
+      "value": "payment",
+      "source": "FDD Item 5, p.3",
+      "type": "absolute"
+    },
+    "initial_fee_calculation_uniform": {
+      "value": true,
+      "source": "FDD Item 5, p.3",
+      "type": "absolute"
+    },
+    "franchisor_finances_initial_fee": {
+      "value": false,
+      "source": "FDD Item 7 Note 1, p.8",
+      "type": "absolute"
+    },
+    "royalty_percent": {
+      "value": "8%",
+      "source": "FDD Item 6, p.4",
+      "type": "absolute"
+    },
+    "royalty_numeric": {
+      "value": 8,
+      "source": "FDD Item 6, p.4",
+      "type": "absolute"
+    },
+    "royalty_base": {
+      "value": "8% of monthly Gross Sales",
+      "source": "FDD Item 6 Note 2, p.6",
+      "type": "absolute"
+    },
+    "royalty_due_date": {
+      "value": "Monthly on the 10th of each month for the preceding month",
+      "source": "FDD Item 6, p.4",
+      "type": "absolute"
+    },
+    "royalty_collection": {
+      "value": "ACH / automatic debit from designated bank account",
+      "source": "FDD Item 6 Note 1, p.6",
+      "type": "absolute"
+    },
+    "brand_development_fund": {
+      "value": "1% of monthly Gross Sales",
+      "source": "FDD Item 6, p.4",
+      "type": "absolute"
+    },
+    "brand_development_fund_numeric": {
+      "value": 1,
+      "source": "FDD Item 6, p.4",
+      "type": "absolute"
+    },
+    "local_marketing_required": {
+      "value": "1% of monthly Gross Sales (franchisee-directed, pre-approved within territory)",
+      "source": "FDD Item 6, p.4",
+      "type": "absolute"
+    },
+    "local_marketing_numeric": {
+      "value": 1,
+      "source": "FDD Item 6, p.4",
+      "type": "absolute"
+    },
+    "technology_fee_monthly": {
+      "value": 850,
+      "source": "FDD Item 6, p.4",
+      "type": "absolute"
+    },
+    "technology_fee_cap_monthly": {
+      "value": 950,
+      "source": "FDD Item 6 Note 6, p.7",
+      "type": "absolute"
+    },
+    "technology_fee_annual_increase_cap": {
+      "value": "5.0% per year, one increase per year with 60 days notice",
+      "source": "FDD Item 6, p.4",
+      "type": "absolute"
+    },
+    "annual_conference_fee_cap": {
+      "value": 1500,
+      "source": "FDD Item 6, p.5",
+      "type": "absolute"
+    },
+    "conference_max_days": {
+      "value": 3,
+      "source": "FDD Item 6 Note 8, p.7",
+      "type": "absolute"
+    },
+    "additional_training_fee": {
+      "value": "Currently $500 per person per day (additional individuals beyond owner/managing owner/lead coach)",
+      "source": "FDD Item 6, p.5",
+      "type": "absolute"
+    },
+    "onsite_training_fee": {
+      "value": "Currently $500 per day per trainer plus expenses",
+      "source": "FDD Item 6, p.5",
+      "type": "absolute"
+    },
+    "late_interest_rate": {
+      "value": "18% per annum on overdue amounts",
+      "source": "FDD Item 6, p.5",
+      "type": "absolute"
+    },
+    "reporting_noncompliance_fee": {
+      "value": 150,
+      "source": "FDD Item 6, p.5",
+      "type": "absolute"
+    },
+    "operations_noncompliance_fee_range": {
+      "value": "450 to 1000 per occurrence",
+      "source": "FDD Item 6, p.5",
+      "type": "absolute"
+    },
+    "nsf_fee": {
+      "value": "5% of amount or $50, whichever is greater (max legal)",
+      "source": "FDD Item 6, p.5",
+      "type": "absolute"
+    },
+    "transfer_fee": {
+      "value": "50% of the then-current initial franchise fee",
+      "source": "FDD Item 6, p.5",
+      "type": "absolute"
+    },
+    "renewal_fee": {
+      "value": "25% of the then-current initial franchise fee",
+      "source": "FDD Item 6, p.5",
+      "type": "absolute"
+    },
+    "advertising_cooperative_allowed": {
+      "value": true,
+      "source": "FDD Item 6, p.4",
+      "type": "absolute"
+    },
+    "advertising_cooperative_currently_assessed": {
+      "value": false,
+      "source": "FDD Item 6, p.4",
+      "type": "absolute"
+    },
+    "fees_uniformly_imposed": {
+      "value": true,
+      "source": "FDD Item 6 Note 1, p.6",
+      "type": "absolute"
+    },
+    "fees_refundable": {
+      "value": false,
+      "source": "FDD Item 6 Note 1, p.6",
+      "type": "absolute"
+    },
+    "gross_sales_includes": {
+      "value": "Total revenues, receipts, sales from all sources from the Studio (less sales tax and written-authorized promotional discounts)",
+      "source": "FDD Item 6 Note 3, p.6",
+      "type": "absolute"
+    },
+    "total_ongoing_fee_burden_pct": {
+      "value": "10% of Gross Sales (8 royalty + 1 brand fund + 1 local marketing) plus $850/mo technology fee",
+      "source": "FDD Item 6, pp.4-7",
+      "type": "absolute"
+    },
+    "item7_total_investment_low": {
+      "value": 535450,
+      "source": "FDD Item 7, p.8",
+      "type": "absolute"
+    },
+    "item7_total_investment_high": {
+      "value": 707450,
+      "source": "FDD Item 7, p.8",
+      "type": "absolute"
+    },
+    "item7_total_investment_midpoint": {
+      "value": 621450,
+      "source": "FDD Item 7, p.8 (computed midpoint)",
+      "type": "absolute"
+    },
+    "inv_initial_fee_low": {
+      "value": 55000,
+      "source": "FDD Item 7, p.8",
+      "type": "absolute"
+    },
+    "inv_initial_fee_high": {
+      "value": 55000,
+      "source": "FDD Item 7, p.8",
+      "type": "absolute"
+    },
+    "inv_construction_low": {
+      "value": 237000,
+      "source": "FDD Item 7, p.8",
+      "type": "absolute"
+    },
+    "inv_construction_high": {
+      "value": 279000,
+      "source": "FDD Item 7, p.8",
+      "type": "absolute"
+    },
+    "inv_lease_deposits_low": {
+      "value": 50000,
+      "source": "FDD Item 7, p.8",
+      "type": "absolute"
+    },
+    "inv_lease_deposits_high": {
+      "value": 75000,
+      "source": "FDD Item 7, p.8",
+      "type": "absolute"
+    },
+    "inv_furniture_low": {
+      "value": 15000,
+      "source": "FDD Item 7, p.8",
+      "type": "absolute"
+    },
+    "inv_furniture_high": {
+      "value": 25000,
+      "source": "FDD Item 7, p.8",
+      "type": "absolute"
+    },
+    "inv_specialized_equipment_low": {
+      "value": 25450,
+      "source": "FDD Item 7, p.8",
+      "type": "absolute"
+    },
+    "inv_specialized_equipment_high": {
+      "value": 32950,
+      "source": "FDD Item 7, p.8",
+      "type": "absolute"
+    },
+    "inv_signage_low": {
+      "value": 10000,
+      "source": "FDD Item 7, p.8",
+      "type": "absolute"
+    },
+    "inv_signage_high": {
+      "value": 20000,
+      "source": "FDD Item 7, p.8",
+      "type": "absolute"
+    },
+    "inv_computer_pos_low": {
+      "value": 3000,
+      "source": "FDD Item 7, p.8",
+      "type": "absolute"
+    },
+    "inv_computer_pos_high": {
+      "value": 7500,
+      "source": "FDD Item 7, p.8",
+      "type": "absolute"
+    },
+    "inv_grand_opening_marketing_low": {
+      "value": 25000,
+      "source": "FDD Item 7, p.8",
+      "type": "absolute"
+    },
+    "inv_grand_opening_marketing_high": {
+      "value": 45000,
+      "source": "FDD Item 7, p.8",
+      "type": "absolute"
+    },
+    "inv_initial_inventory_low": {
+      "value": 44000,
+      "source": "FDD Item 7, p.8",
+      "type": "absolute"
+    },
+    "inv_initial_inventory_high": {
+      "value": 46000,
+      "source": "FDD Item 7, p.8",
+      "type": "absolute"
+    },
+    "inv_utility_deposits_low": {
+      "value": 500,
+      "source": "FDD Item 7, p.8",
+      "type": "absolute"
+    },
+    "inv_utility_deposits_high": {
+      "value": 1000,
+      "source": "FDD Item 7, p.8",
+      "type": "absolute"
+    },
+    "inv_insurance_low": {
+      "value": 4000,
+      "source": "FDD Item 7, p.8",
+      "type": "absolute"
+    },
+    "inv_insurance_high": {
+      "value": 6000,
+      "source": "FDD Item 7, p.8",
+      "type": "absolute"
+    },
+    "inv_training_travel_low": {
+      "value": 6000,
+      "source": "FDD Item 7, p.8",
+      "type": "absolute"
+    },
+    "inv_training_travel_high": {
+      "value": 10000,
+      "source": "FDD Item 7, p.8",
+      "type": "absolute"
+    },
+    "inv_professional_fees_low": {
+      "value": 10000,
+      "source": "FDD Item 7, p.8",
+      "type": "absolute"
+    },
+    "inv_professional_fees_high": {
+      "value": 20000,
+      "source": "FDD Item 7, p.8",
+      "type": "absolute"
+    },
+    "inv_licenses_permits_low": {
+      "value": 500,
+      "source": "FDD Item 7, p.8",
+      "type": "absolute"
+    },
+    "inv_licenses_permits_high": {
+      "value": 10000,
+      "source": "FDD Item 7, p.8",
+      "type": "absolute"
+    },
+    "inv_additional_funds_low": {
+      "value": 50000,
+      "source": "FDD Item 7, p.8 (3 months)",
+      "type": "absolute"
+    },
+    "inv_additional_funds_high": {
+      "value": 75000,
+      "source": "FDD Item 7, p.8 (3 months)",
+      "type": "absolute"
+    },
+    "inv_min_two_studios_total_note": {
+      "value": "Unless exception granted, minimum 2 studios = $110,000 initial fees",
+      "source": "FDD Item 7 Note 1, p.8",
+      "type": "absolute"
+    },
+    "inv_construction_consultant_fee": {
+      "value": "approx. $2,000 to $3,000 (designated construction consultant)",
+      "source": "FDD Item 7 Note 2, p.8",
+      "type": "absolute"
+    },
+    "inv_construction_pmo_fee": {
+      "value": 17500,
+      "source": "FDD Item 7 Note 2, p.8 (designated real estate construction/project management supplier)",
+      "type": "absolute"
+    },
+    "inv_no_real_property": {
+      "value": true,
+      "source": "FDD Item 7 Note 3, p.8 (estimate excludes purchase of real property)",
+      "type": "absolute"
+    },
+    "item8_approved_products_only": {
+      "value": true,
+      "source": "FDD Item 8, p.11",
+      "type": "absolute"
+    },
+    "item8_establishment_restricted_pct": {
+      "value": "approximately 80%",
+      "source": "FDD Item 8, p.11",
+      "type": "absolute"
+    },
+    "item8_ongoing_restricted_pct": {
+      "value": "approximately 50%",
+      "source": "FDD Item 8, p.11",
+      "type": "absolute"
+    },
+    "item8_exclusive_supplier_rights": {
+      "value": "Franchisor may designate itself/affiliates as exclusive suppliers",
+      "source": "FDD Item 8, p.11",
+      "type": "absolute"
+    },
+    "item8_current_approved_suppliers_fr_franchisor": {
+      "value": "Currently none; franchisor/affiliates are not approved suppliers",
+      "source": "FDD Item 8, p.11",
+      "type": "absolute"
+    },
+    "item8_owner_interest_in_suppliers": {
+      "value": "Currently none of our owners or officers owns an interest in any designated supplier",
+      "source": "FDD Item 8, p.11",
+      "type": "absolute"
+    },
+    "item8_supplier_approval_timeframe": {
+      "value": "Within 60 days of complete written request (franchisor may withhold approval at sole discretion)",
+      "source": "FDD Item 8, p.11",
+      "type": "absolute"
+    },
+    "item8_rebate_disclosure": {
+      "value": "Item 8 contains no statement of revenue or rebates received from suppliers",
+      "source": "FDD Item 8, p.11 (statement absent)",
+      "type": "absolute"
+    },
+    "item9_site_selection": {
+      "value": "Franchisee selects site per Franchise Agreement; franchisor written approval required for each Studio Location",
+      "source": "FDD Item 9 / Item 1, p.1",
+      "type": "absolute"
+    },
+    "item9_buildout_per_specs": {
+      "value": true,
+      "source": "FDD Item 9 / Item 7 Note 2, p.8",
+      "type": "absolute"
+    },
+    "item9_initial_training_required": {
+      "value": true,
+      "source": "FDD Item 11, p.14",
+      "type": "absolute"
+    },
+    "item9_compliance_with_manuals": {
+      "value": true,
+      "source": "FDD Item 9 / Item 1, p.1",
+      "type": "absolute"
+    },
+    "item9_operating_hours_compliance": {
+      "value": true,
+      "source": "FDD Item 9 (system standards)",
+      "type": "absolute"
+    },
+    "item9_report_submission_required": {
+      "value": true,
+      "source": "FDD Item 6 reporting non-compliance, p.5",
+      "type": "absolute"
+    },
+    "item11_preopening_training_program": {
+      "value": "Approximately 3-week initial training program",
+      "source": "FDD Item 11, p.14",
+      "type": "absolute"
+    },
+    "item11_training_attendees": {
+      "value": "Franchisee, Managing Owner, operating manager, and lead coach for each Studio",
+      "source": "FDD Item 11, p.14",
+      "type": "absolute"
+    },
+    "item11_initial_training_fee_core": {
+      "value": "No initial pre-opening training fee for you, your Managing Owner, and one lead coach",
+      "source": "FDD Item 6, p.5",
+      "type": "absolute"
+    },
+    "item11_additional_trainee_fee": {
+      "value": "$500 per person per day",
+      "source": "FDD Item 6, p.5",
+      "type": "absolute"
+    },
+    "item11_computer_systems_required": {
+      "value": true,
+      "source": "FDD Item 11 (computer systems; Item 7 POS/computer $3,000-$7,500)",
+      "type": "absolute"
+    },
+    "item11_website_intranet": {
+      "value": "System website, intranet and technology expenses covered by Technology Fee",
+      "source": "FDD Item 6 Note 6, p.7",
+      "type": "absolute"
+    },
+    "item11_site_assistance": {
+      "value": "Franchisor approves Studio Locations; development criteria specified",
+      "source": "FDD Item 11 / Item 1, p.1",
+      "type": "absolute"
+    },
+    "item11_marketing_assistance": {
+      "value": "Brand Development Fund (1% Gross Sales) supports system marketing",
+      "source": "FDD Item 6 Note 4, p.7",
+      "type": "absolute"
+    },
+    "item11_advertising_materials": {
+      "value": "Franchisee must spend 1% of Gross Sales on pre-approved local marketing",
+      "source": "FDD Item 6 Note 5, p.7",
+      "type": "absolute"
+    },
+    "item11_ongoing_assistance": {
+      "value": "Operations manual, system communications, conferences; no other required assistance except as listed",
+      "source": "FDD Item 11, p.14",
+      "type": "absolute"
+    },
+    "item12_territory_grant": {
+      "value": "Designated Territory around approved Studio Locations once sites identified/approved",
+      "source": "FDD Item 12, p.23",
+      "type": "absolute"
+    },
+    "item12_territory_size": {
+      "value": "Generally a distance of 3 miles from each Studio Location in all directions travelable by road; may be smaller based on density/demographics/geography",
+      "source": "FDD Item 12, p.23",
+      "type": "absolute"
+    },
+    "item12_no_minimum_size": {
+      "value": true,
+      "source": "FDD Item 12, p.23",
+      "type": "absolute"
+    },
+    "item12_exclusive": {
+      "value": false,
+      "source": "FDD Item 12, p.23 ('You will not receive an exclusive territory')",
+      "type": "absolute"
+    },
+    "item12_protection_within_territory": {
+      "value": "During term (and not in default), franchisor will not open or grant another franchise for an Alpha Fit Club Studio at a Studio Location within the Designated Territory",
+      "source": "FDD Item 12, p.23",
+      "type": "absolute"
+    },
+    "item12_reserved_rights": {
+      "value": "Reserved rights include captive markets (airports, malls, etc.), e-commerce/wholesale/alternative channels, and acquisition/affiliation with competing businesses within territory",
+      "source": "FDD Item 12, p.23",
+      "type": "absolute"
+    },
+    "item12_relocation_not_guaranteed": {
+      "value": true,
+      "source": "FDD Item 12, p.23",
+      "type": "absolute"
+    },
+    "item12_multi_unit_development_area": {
+      "value": "Agreed geographic Development Area with development schedule for additional Studios beyond two",
+      "source": "FDD Item 12, p.23",
+      "type": "absolute"
+    },
+    "item12_no_right_of_first_refusal": {
+      "value": true,
+      "source": "FDD Item 12, p.23",
+      "type": "absolute"
+    },
+    "item12_solicitation_restriction": {
+      "value": "Franchisee not authorized to solicit customers outside Designated Territory",
+      "source": "FDD Item 12, p.24",
+      "type": "absolute"
+    },
+    "item12_competition_same_mark": {
+      "value": "May face competition from other franchisees, franchisor-owned outlets, or franchisor-controlled channels",
+      "source": "FDD Item 12, p.23",
+      "type": "absolute"
+    },
+    "item13_trademark_ownership": {
+      "value": "Licensed Marks owned by affiliate Alpha Fit Club, LLC",
+      "source": "FDD Item 1, p.2 / Item 13",
+      "type": "absolute"
+    },
+    "item14_trademark_license": {
+      "value": "Franchisee licensed to use Licensed Marks in operation of the Franchised Business",
+      "source": "FDD Item 14 / Item 1, p.1",
+      "type": "absolute"
+    },
+    "item15_managing_owner_required": {
+      "value": "Franchisee or designated Managing Owner personally responsible for management and overall supervision",
+      "source": "FDD Item 15, p.27",
+      "type": "absolute"
+    },
+    "item15_operating_manager_allowed": {
+      "value": true,
+      "source": "FDD Item 15, p.27",
+      "type": "absolute"
+    },
+    "item15_personal_guarantee": {
+      "value": "Each Owner and spouse of each Owner must personally guarantee obligations under the Franchise Agreement",
+      "source": "FDD Item 15, p.27",
+      "type": "absolute"
+    },
+    "item15_postterm_noncompete_months": {
+      "value": 24,
+      "source": "FDD Item 15, p.27",
+      "type": "absolute"
+    },
+    "item15_postterm_noncompete_radius_miles": {
+      "value": 25,
+      "source": "FDD Item 15, p.27",
+      "type": "absolute"
+    },
+    "item15_confidentiality_required": {
+      "value": true,
+      "source": "FDD Item 15, p.27",
+      "type": "absolute"
+    },
+    "item15_multi_unit_onsite_manager": {
+      "value": "Each Studio must be managed on-site by an Operating Manager when owning multiple Studios",
+      "source": "FDD Item 15, p.27",
+      "type": "absolute"
+    },
+    "item16_sell_restrictions": {
+      "value": "Only Approved Products and Services as specified in Manuals or approved in writing; no limits on to whom you may sell (from Studio Location only)",
+      "source": "FDD Item 16, p.27",
+      "type": "absolute"
+    },
+    "item17_franchise_term_years": {
+      "value": 10,
+      "source": "FDD Item 17 row a, p.28",
+      "type": "absolute"
+    },
+    "item17_renewal_terms": {
+      "value": "Two additional five-year terms if conditions met",
+      "source": "FDD Item 17 row b, p.28",
+      "type": "absolute"
+    },
+    "item17_renewal_notice_days": {
+      "value": 180,
+      "source": "FDD Item 17 row c, p.28",
+      "type": "absolute"
+    },
+    "item17_renewal_conditions": {
+      "value": "Compliance, 180-day notice, sign then-current agreement, general release, pay renewal fee",
+      "source": "FDD Item 17 row c, p.28",
+      "type": "absolute"
+    },
+    "item17_renewal_fee": {
+      "value": "25% of then-current initial franchise fee",
+      "source": "FDD Item 17 row c, p.28",
+      "type": "absolute"
+    },
+    "item17_transfer_fee": {
+      "value": "50% of then-current initial franchise fee",
+      "source": "FDD Item 6, p.5",
+      "type": "absolute"
+    },
+    "item17_transfer_requires_approval": {
+      "value": true,
+      "source": "FDD Item 6 / Item 17",
+      "type": "absolute"
+    },
+    "item17_mediation_venue": {
+      "value": "Union County, New Jersey (non-binding mediation first)",
+      "source": "FDD Item 17 rows u-v, p.28",
+      "type": "absolute"
+    },
+    "item17_arbitration_venue": {
+      "value": "Union County, New Jersey (binding arbitration)",
+      "source": "FDD Item 17 rows u-v, p.28",
+      "type": "absolute"
+    },
+    "item17_governing_law": {
+      "value": "New Jersey law",
+      "source": "FDD Item 17 row w, p.28",
+      "type": "absolute"
+    },
+    "item17_nonrenewal_rights": {
+      "value": "Franchisor may refuse renewal if conditions not met (180-day notice requirement)",
+      "source": "FDD Item 17 rows b-c, p.28",
+      "type": "absolute"
+    },
+    "item17_termination_by_franchisee": {
+      "value": "Defined in Franchise Agreement; FDD Item 17 table references Franchise Agreement articles",
+      "source": "FDD Item 17, p.28",
+      "type": "absolute"
+    },
+    "item19_avg_gross_sales_company_owned_2024": {
+      "value": 1020129,
+      "source": "FDD Item 19 Table 1, p.35 (computed: (1,236,062+1,011,959+812,366)/3)",
+      "type": "absolute"
+    },
+    "item19_n_company_owned": {
+      "value": 3,
+      "source": "FDD Item 19, p.35",
+      "type": "absolute"
+    },
+    "item19_westfield_gross_sales": {
+      "value": 1236062,
+      "source": "FDD Item 19 Table 1, p.35",
+      "type": "absolute"
+    },
+    "item19_verona_gross_sales": {
+      "value": 1011959,
+      "source": "FDD Item 19 Table 1, p.35",
+      "type": "absolute"
+    },
+    "item19_redbank_gross_sales": {
+      "value": 812366,
+      "source": "FDD Item 19 Table 1, p.35",
+      "type": "absolute"
+    },
+    "item19_westfield_ebitda": {
+      "value": 422642,
+      "source": "FDD Item 19 Table 1, p.35",
+      "type": "absolute"
+    },
+    "item19_verona_ebitda": {
+      "value": 311473,
+      "source": "FDD Item 19 Table 1, p.35",
+      "type": "absolute"
+    },
+    "item19_redbank_ebitda": {
+      "value": 49745,
+      "source": "FDD Item 19 Table 1, p.35",
+      "type": "absolute"
+    },
+    "item19_westfield_net_income": {
+      "value": 255155,
+      "source": "FDD Item 19 Table 1, p.35",
+      "type": "absolute"
+    },
+    "item19_verona_net_income": {
+      "value": 278197,
+      "source": "FDD Item 19 Table 1, p.35",
+      "type": "absolute"
+    },
+    "item19_redbank_net_income": {
+      "value": -6946,
+      "source": "FDD Item 19 Table 1, p.35",
+      "type": "absolute"
+    },
+    "item19_ebitda_avg": {
+      "value": 261287,
+      "source": "FDD Item 19 Table 1, p.35 (computed: (422,642+311,473+49,745)/3)",
+      "type": "absolute"
+    },
+    "item19_data_basis": {
+      "value": "Company-Owned data reported by affiliate; franchisee data reported by franchisees; not prepared on GAAP basis; unaudited",
+      "source": "FDD Item 19, p.35",
+      "type": "absolute"
+    },
+    "item19_franchise_studio_count_2024": {
+      "value": 12,
+      "source": "FDD Item 19, p.35",
+      "type": "absolute"
+    },
+    "item19_operational_franchise_studios_2024": {
+      "value": 6,
+      "source": "FDD Item 19, p.35",
+      "type": "absolute"
+    },
+    "item19_new_franchise_studios_2024": {
+      "value": 6,
+      "source": "FDD Item 19, p.35",
+      "type": "absolute"
+    },
+    "item19_franchisee_financials_disclosed": {
+      "value": "Franchisee financial data NOT tabulated in this Item 19",
+      "source": "FDD Item 19, p.35",
+      "type": "absolute"
+    },
+    "item19_not_forecast": {
+      "value": true,
+      "source": "FDD Item 19, p.35",
+      "type": "absolute"
+    },
+    "item20_total_2024": {
+      "value": 13,
+      "source": "FDD Item 20 Table 1, p.36",
+      "type": "absolute"
+    },
+    "item20_franchised_end_2024": {
+      "value": 10,
+      "source": "FDD Item 20 Table 1, p.36",
+      "type": "absolute"
+    },
+    "item20_company_owned_end_2024": {
+      "value": 3,
+      "source": "FDD Item 20 Table 1, p.36",
+      "type": "absolute"
+    },
+    "item20_total_end_2023": {
+      "value": 9,
+      "source": "FDD Item 20 Table 1, p.36",
+      "type": "absolute"
+    },
+    "item20_total_end_2022": {
+      "value": 6,
+      "source": "FDD Item 20 Table 1, p.36",
+      "type": "absolute"
+    },
+    "item20_franchised_end_2023": {
+      "value": 6,
+      "source": "FDD Item 20 Table 1, p.36",
+      "type": "absolute"
+    },
+    "item20_franchised_end_2022": {
+      "value": 3,
+      "source": "FDD Item 20 Table 1, p.36",
+      "type": "absolute"
+    },
+    "item20_transfers_2022_2024": {
+      "value": 0,
+      "source": "FDD Item 20 Table 2, p.36",
+      "type": "absolute"
+    },
+    "item20_terminations_2022_2024": {
+      "value": 0,
+      "source": "FDD Item 20 Table 3, p.36",
+      "type": "absolute"
+    },
+    "item20_closures_2022_2024": {
+      "value": 0,
+      "source": "FDD Item 20 Table 3-4, pp.36-37",
+      "type": "absolute"
+    },
+    "item20_franchised_states": {
+      "value": "New Jersey (all)",
+      "source": "FDD Item 20 Table 3, p.36",
+      "type": "absolute"
+    },
+    "item20_projected_new_next_year": {
+      "value": 29,
+      "source": "FDD Item 20 Table 5, p.37 (CT 5, FL 5, NJ 11, NY 5, PA 3)",
+      "type": "absolute"
+    },
+    "item20_signed_not_open": {
+      "value": 12,
+      "source": "FDD Item 20 Table 5, p.37 (NJ 11, NY 1)",
+      "type": "absolute"
+    },
+    "item20_exhibit_f_open_outlets": {
+      "value": 10,
+      "source": "FDD Exhibit F, p.4 (10 franchised outlets open as of 12/31/2024, all NJ)",
+      "type": "absolute"
+    },
+    "item20_exhibit_g_left_system": {
+      "value": 1,
+      "source": "FDD Exhibit G, p.5 (1 franchisee ceased 2024: Bean Fitness)",
+      "type": "absolute"
+    },
+    "item20_growth_2022_to_2024": {
+      "value": "Total studios: 6 (2022) -> 9 (2023) -> 13 (2024)",
+      "source": "FDD Item 20 Table 1, p.36",
+      "type": "absolute"
+    },
+    "item21_audited_financials": {
+      "value": "Audited financial statements for 2022, 2023, and 2024 attached as Exhibit D",
+      "source": "FDD Item 21, p.37",
+      "type": "absolute"
+    },
+    "item21_fiscal_year_end": {
+      "value": "December 31",
+      "source": "FDD Item 21, p.37",
+      "type": "absolute"
+    },
+    "theory_risk_score": {
+      "value": 40.5,
+      "source": "theoretical: composite risk (higher=riskier). Inputs: no litigation (10), no bankruptcy (10), zero terminations/closures 2022-2024 (5; Exhibit G: one 2024 departure — Bean Fitness, signed agreement never opened), Item-19 company-owned data only n=3 (60), young franchising history since 2020 (65), fee burden 10% + $850/mo (70), revenue trend not provided (50). Weighted mean = 10x.15 + 10x.10 + 5x.15 + 60x.20 + 65x.15 + 70x.15 + 50x.10 = 40.5. Confidence: MODERATE-WEAK (Item 19 covers company-owned only, n=3).",
+      "type": "theoretical"
+    },
+    "theory_closure_rate": {
+      "value": "0.0% disclosed closures across 2022-2024 (FDD Item 20 Tables 3-4); 1 franchisee left in 2024 per Exhibit G — closure rate across expanding base = LOW, but young system",
+      "source": "theoretical: computed from FDD Item 20 Tables 3-4, Exhibit G",
+      "type": "theoretical"
+    },
+    "theory_growth_trend": {
+      "value": "POSITIVE: +4 net franchised in 2024, 12 signed-not-open, 29 projected next year across 5 states",
+      "source": "theoretical: FDD Item 20 Tables 1,3,5",
+      "type": "theoretical"
+    },
+    "theory_fee_burden_pct": {
+      "value": "10% of Gross Sales + $850/mo tech ($10,200/yr) + 1% local ad requirement — HIGH relative to fitness category; $55k/unit initial fee on $621k midpoint investment = 8.9%",
+      "source": "theoretical: FDD Item 6 p.4 + Item 7 p.8; category comparison = judgment, insufficient-data for category median",
+      "type": "theoretical"
+    },
+    "theory_payback_estimate": {
+      "value": "insufficient-data: Item 19 contains no franchised-studio net income or EBITDA; company-owned avg EBITDA $261,287 (n=3) is not a franchisee outcome",
+      "source": "theoretical: cannot be computed honestly from FDD",
+      "type": "theoretical"
+    },
+    "theory_support_rating": {
+      "value": "MODERATE: 3-week initial training, site approval, manuals, marketing fund; management team has multi-brand franchise experience (Salad House, Playa Bowls)",
+      "source": "theoretical: FDD Item 11 p.14 + Item 2 p.2; rating is judgment",
+      "type": "theoretical"
+    },
+    "theory_saturation_rating": {
+      "value": "LOW current saturation risk: 13 units all NJ, 5-state expansion pipeline, 3-mile protected territories",
+      "source": "theoretical: FDD Item 12 p.23 + Item 20 p.36; judgment",
+      "type": "theoretical"
+    },
+    "theory_efficiency_rating": {
+      "value": "MODERATE-HIGH: 97-99% gross profit percentage on company-owned units (low COGS, labor is main expense)",
+      "source": "theoretical: FDD Item 19 Table 1 p.35; franchisee-level costs insufficient-data",
+      "type": "theoretical"
+    },
+    "theory_young_system_penalty": {
+      "value": "Franchising since 2020; first Item-19 data covers 2024 company-owned units only — franchised-unit economics unproven at scale",
+      "source": "theoretical: FDD Item 1 p.1 + Item 19 p.35",
+      "type": "theoretical"
+    },
+    "matching_capital": {
+      "value": "High capital bar: $535,450-$707,450 per studio + $110,000 minimum initial fees (2 studios); additional $50k-$75k working capital built in",
+      "source": "matching key per skill schema; figures from FDD Items 5,7",
+      "type": "matching"
+    },
+    "matching_experience": {
+      "value": "Business-operator profile preferred; Managing Owner completes 3-week training; multi-unit experience valuable (2-studio minimum)",
+      "source": "matching key per skill schema; FDD Items 11,15",
+      "type": "matching"
+    },
+    "matching_operational": {
+      "value": "Hands-on or Operating Manager required on-site; daily operational standards compliance; conference attendance required",
+      "source": "matching key per skill schema; FDD Items 6,15",
+      "type": "matching"
+    },
+    "matching_lifestyle": {
+      "value": "Service-retail fitness: evenings/weekends member demand; class schedule and community focus; not passive absentee",
+      "source": "matching key per skill schema; FDD Items 11,15",
+      "type": "matching"
+    },
+    "matching_risk": {
+      "value": "MODERATE: young system, high fee burden, no franchised-unit Item-19 data; zero disclosed litigation/closures; audited financials",
+      "source": "matching key per skill schema; FDD Items 3,4,19,20,21",
+      "type": "matching"
+    },
+    "matching_location": {
+      "value": "NJ-centric system expanding to CT/FL/NY/PA; 2,800-3,600 sf retail, shopping centers/high-traffic; territory ~3 miles",
+      "source": "matching key per skill schema; FDD Items 7,12,20",
+      "type": "matching"
+    },
+    "matching_timeline": {
+      "value": "Pre-opening cycle includes site selection, 8-12 week buildout assumption, 3-week training; 12 signed-not-open at 12/31/2024",
+      "source": "matching key per skill schema; FDD Item 7,20",
+      "type": "matching"
+    },
+    "matching_franchise_model": {
+      "value": "Multi-unit-first model (2-studio minimum, development schedule for 3+); renewal available 2x5yr at 25% fee",
+      "source": "matching key per skill schema; FDD Items 5,17",
+      "type": "matching"
+    },
+    "netWorthRequirement": "not disclosed in FDD",
+    "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+    "liquidCapitalRequirement": "not disclosed in FDD",
+    "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+    "pinVerification": {
+      "run_at": "2026-09-13T01:48:32Z",
+      "all_verified": true,
+      "pins_total": 6
+    },
+    "pinsUpdatedAt": "2026-09-13T01:48:32Z"
+  },
+  "netWorthRequirement": "not disclosed in FDD",
+  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "liquidCapitalRequirement": "not disclosed in FDD",
+  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "pinVerification": {
+    "method": "Nominatim forward-geocode of each unique pin (city, state); haversine vs stored coords; tolerance 50.0km",
+    "run_at": "2026-09-13T01:48:32Z",
+    "pins_total": 6,
+    "pins_verified": 6,
+    "pins_unverifiable": 0,
+    "pins_mismatch": 0,
+    "all_verified": true,
+    "per_pin": [
+      {
+        "pin": 0,
+        "city": "Westfield",
+        "state": "NJ",
+        "stored": [
+          40.65439,
+          -74.34544
+        ],
+        "geocoded": [
+          40.651726,
+          -74.3483059
+        ],
+        "distance_km": 0.38,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 1,
+        "city": "Belmar",
+        "state": "NJ",
+        "stored": [
+          40.18297,
+          -74.02431
+        ],
+        "geocoded": [
+          40.1784471,
+          -74.0218037
+        ],
+        "distance_km": 0.55,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 2,
+        "city": "Jersey City",
+        "state": "NJ",
+        "stored": [
+          40.71748,
+          -74.04385
+        ],
+        "geocoded": [
+          40.7215682,
+          -74.047455
+        ],
+        "distance_km": 0.55,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 3,
+        "city": "Wayne",
+        "state": "NJ",
+        "stored": [
+          40.93147,
+          -74.22788
+        ],
+        "geocoded": [
+          40.9491723,
+          -74.2376802
+        ],
+        "distance_km": 2.13,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 4,
+        "city": "Princeton",
+        "state": "NJ",
+        "stored": [
+          40.37524,
+          -74.60896
+        ],
+        "geocoded": [
+          40.3496953,
+          -74.6597376
+        ],
+        "distance_km": 5.16,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 5,
+        "city": "Marlton",
+        "state": "NJ",
+        "stored": [
+          39.89341,
+          -74.9187
+        ],
+        "geocoded": [
+          39.9416808,
+          -75.0939834
+        ],
+        "distance_km": 15.88,
+        "status": "VERIFIED"
+      }
+    ]
+  },
+  "pinsUpdatedAt": "2026-09-13T01:48:32Z",
+  "risk_method": "litigation 10x0.15 + bankruptcy 10x0.10 + closure_history 5x0.15 + item19_scope 60x0.20 + system_youth 65x0.15 + fee_burden 70x0.15 + revenue_trend_disclosure 50x0.10 = 40.5 (weighted mean; source: page Method)",
+  "risk_components": [
+    {
+      "name": "litigation",
+      "weight": 0.15,
+      "note": "no litigation (Item 3)"
+    },
+    {
+      "name": "bankruptcy",
+      "weight": 0.1,
+      "note": "no bankruptcy (Item 4)"
+    },
+    {
+      "name": "closure_history",
+      "weight": 0.15,
+      "note": "zero closures 2022-2024 (Item 20)"
+    },
+    {
+      "name": "item19_scope",
+      "weight": 0.2,
+      "note": "Item-19 company-owned data only, n=3 (Item 19)"
+    },
+    {
+      "name": "system_youth",
+      "weight": 0.15,
+      "note": "young franchising history since 2020 (Item 1)"
+    },
+    {
+      "name": "fee_burden",
+      "weight": 0.15,
+      "note": "10% + $850/mo (Item 6)"
+    },
+    {
+      "name": "revenue_trend_disclosure",
+      "weight": 0.1,
+      "note": "revenue trend not provided (Item 19)"
+    }
+  ],
+  "risk_source": "page Method text (weighted mean)"
+}
