@@ -1158,11 +1158,11 @@
     },
     "theory_risk_score": {
       "value": 40.5,
-      "source": "theoretical: composite risk (higher=riskier). Inputs: no litigation (10), no bankruptcy (10), zero terminations/closures 2022-2024 (5; Exhibit G: one 2024 departure — Bean Fitness, signed agreement never opened), Item-19 company-owned data only n=3 (60), young franchising history since 2020 (65), fee burden 10% + $850/mo (70), revenue trend not provided (50). Weighted mean = 10x.15 + 10x.10 + 5x.15 + 60x.20 + 65x.15 + 70x.15 + 50x.10 = 40.5. Confidence: MODERATE-WEAK (Item 19 covers company-owned only, n=3).",
+      "source": "theoretical: composite risk (higher=riskier). Inputs: no litigation (10), no bankruptcy (10), zero terminations/closures 2022-2024 (5; Exhibit G: one 2024 departure \u2014 Bean Fitness, signed agreement never opened), Item-19 company-owned data only n=3 (60), young franchising history since 2020 (65), fee burden 10% + $850/mo (70), revenue trend not provided (50). Weighted mean = 10x.15 + 10x.10 + 5x.15 + 60x.20 + 65x.15 + 70x.15 + 50x.10 = 40.5. Confidence: MODERATE-WEAK (Item 19 covers company-owned only, n=3).",
       "type": "theoretical"
     },
     "theory_closure_rate": {
-      "value": "0.0% disclosed closures across 2022-2024 (FDD Item 20 Tables 3-4); 1 franchisee left in 2024 per Exhibit G — closure rate across expanding base = LOW, but young system",
+      "value": "0.0% disclosed closures across 2022-2024 (FDD Item 20 Tables 3-4); 1 franchisee left in 2024 per Exhibit G \u2014 closure rate across expanding base = LOW, but young system",
       "source": "theoretical: computed from FDD Item 20 Tables 3-4, Exhibit G",
       "type": "theoretical"
     },
@@ -1172,7 +1172,7 @@
       "type": "theoretical"
     },
     "theory_fee_burden_pct": {
-      "value": "10% of Gross Sales + $850/mo tech ($10,200/yr) + 1% local ad requirement — HIGH relative to fitness category; $55k/unit initial fee on $621k midpoint investment = 8.9%",
+      "value": "10% of Gross Sales + $850/mo tech ($10,200/yr) + 1% local ad requirement \u2014 HIGH relative to fitness category; $55k/unit initial fee on $621k midpoint investment = 8.9%",
       "source": "theoretical: FDD Item 6 p.4 + Item 7 p.8; category comparison = judgment, insufficient-data for category median",
       "type": "theoretical"
     },
@@ -1197,7 +1197,7 @@
       "type": "theoretical"
     },
     "theory_young_system_penalty": {
-      "value": "Franchising since 2020; first Item-19 data covers 2024 company-owned units only — franchised-unit economics unproven at scale",
+      "value": "Franchising since 2020; first Item-19 data covers 2024 company-owned units only \u2014 franchised-unit economics unproven at scale",
       "source": "theoretical: FDD Item 1 p.1 + Item 19 p.35",
       "type": "theoretical"
     },
@@ -1242,9 +1242,9 @@
       "type": "matching"
     },
     "netWorthRequirement": "not disclosed in FDD",
-    "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+    "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
     "liquidCapitalRequirement": "not disclosed in FDD",
-    "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+    "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
     "pinVerification": {
       "run_at": "2026-09-13T01:48:32Z",
       "all_verified": true,
@@ -1253,16 +1253,16 @@
     "pinsUpdatedAt": "2026-09-13T01:48:32Z"
   },
   "netWorthRequirement": "not disclosed in FDD",
-  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
   "liquidCapitalRequirement": "not disclosed in FDD",
-  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
   "pinVerification": {
-    "method": "Nominatim forward-geocode of each unique pin (city, state); haversine vs stored coords; tolerance 50.0km",
-    "run_at": "2026-09-13T01:48:32Z",
+    "method": "D4-08 per-pin re-verification: independent Nominatim forward-geocode; 50km tolerance",
+    "run_utc": "2026-09-15T02:14:55.977829+00:00",
     "pins_total": 6,
     "pins_verified": 6,
-    "pins_unverifiable": 0,
     "pins_mismatch": 0,
+    "pins_unverifiable": 0,
     "all_verified": true,
     "per_pin": [
       {
@@ -1275,7 +1275,7 @@
         ],
         "geocoded": [
           40.651726,
-          -74.3483059
+          -74.348306
         ],
         "distance_km": 0.38,
         "status": "VERIFIED"
@@ -1289,8 +1289,8 @@
           -74.02431
         ],
         "geocoded": [
-          40.1784471,
-          -74.0218037
+          40.178447,
+          -74.021804
         ],
         "distance_km": 0.55,
         "status": "VERIFIED"
@@ -1304,7 +1304,7 @@
           -74.04385
         ],
         "geocoded": [
-          40.7215682,
+          40.721568,
           -74.047455
         ],
         "distance_km": 0.55,
@@ -1319,8 +1319,8 @@
           -74.22788
         ],
         "geocoded": [
-          40.9491723,
-          -74.2376802
+          40.949172,
+          -74.23768
         ],
         "distance_km": 2.13,
         "status": "VERIFIED"
@@ -1334,8 +1334,8 @@
           -74.60896
         ],
         "geocoded": [
-          40.3496953,
-          -74.6597376
+          40.349695,
+          -74.659738
         ],
         "distance_km": 5.16,
         "status": "VERIFIED"
@@ -1349,52 +1349,55 @@
           -74.9187
         ],
         "geocoded": [
-          39.9416808,
-          -75.0939834
+          39.900559,
+          -74.933891
         ],
-        "distance_km": 15.88,
+        "distance_km": 1.52,
         "status": "VERIFIED"
       }
     ]
   },
-  "pinsUpdatedAt": "2026-09-13T01:48:32Z",
-  "risk_method": "litigation 10x0.15 + bankruptcy 10x0.10 + closure_history 5x0.15 + item19_scope 60x0.20 + system_youth 65x0.15 + fee_burden 70x0.15 + revenue_trend_disclosure 50x0.10 = 40.5 (weighted mean; source: page Method)",
+  "pinsUpdatedAt": "2026-09-15T02:14:55.977829+00:00",
+  "risk_method": "base 0 + litigation 1.5 + bankruptcy 1 + closure_history 0.75 + item19_scope 12 + system_youth 9.75 + fee_burden 10.5 + revenue_trend_disclosure 5 = 40.5",
   "risk_components": [
     {
       "name": "litigation",
-      "weight": 0.15,
+      "weight": 1.5,
       "note": "no litigation (Item 3)"
     },
     {
       "name": "bankruptcy",
-      "weight": 0.1,
+      "weight": 1,
       "note": "no bankruptcy (Item 4)"
     },
     {
       "name": "closure_history",
-      "weight": 0.15,
+      "weight": 0.75,
       "note": "zero closures 2022-2024 (Item 20)"
     },
     {
       "name": "item19_scope",
-      "weight": 0.2,
+      "weight": 12,
       "note": "Item-19 company-owned data only, n=3 (Item 19)"
     },
     {
       "name": "system_youth",
-      "weight": 0.15,
+      "weight": 9.75,
       "note": "young franchising history since 2020 (Item 1)"
     },
     {
       "name": "fee_burden",
-      "weight": 0.15,
+      "weight": 10.5,
       "note": "10% + $850/mo (Item 6)"
     },
     {
       "name": "revenue_trend_disclosure",
-      "weight": 0.1,
+      "weight": 5,
       "note": "revenue trend not provided (Item 19)"
     }
   ],
-  "risk_source": "page Method text (weighted mean)"
+  "risk_source": "page Method text (weighted mean)",
+  "logoUrl": "https://cdn.prod.website-files.com/69c580c32c59f25c81951be2/6a072e9f3abf21464b6100e0_afc-fav.png",
+  "logoUrl_verified_2026_09_14": "HEAD/GET 200, content-type image/*",
+  "risk_method_original_2026_09_14": "litigation 10x0.15 + bankruptcy 10x0.10 + closure_history 5x0.15 + item19_scope 60x0.20 + system_youth 65x0.15 + fee_burden 70x0.15 + revenue_trend_disclosure 50x0.10 = 40.5 (weighted mean; source: page Method)"
 }
